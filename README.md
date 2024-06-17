@@ -27,17 +27,17 @@
 - [x] PHP should be used for the dynamic content.
 - [x] PHP should be able to communicate with a database.
 - [x] There must be a static page, telling the user about what your project is.
-- [ ] There must be a dynamic page, visualizing the data that's stored in your database.
+- [x] There must be a dynamic page, visualizing the data that's stored in your database.
 - [ ] There must be a dynamic page, dumping all the data from your database in different formats.
 - [ ] The web application must adhere to the RESTful principles.
 - [ ] Operations on the database must adhere to the CRUD principles.
 - [x] User input should be handled properly.
-- [ ] An external device should periodically upload data to your web application.
+- [x] An external device should periodically upload data to your web application.
 - [x] The external device must not be on the same machine as your web server.
 - [ ] SQL injections must be avoided.
 - [x] A Linux server should be provisioned correctly.
 - [x] A Linux server should be bootstrapped correctly.
 - [x] The student must document their project.
-- [ ] The student must prepare a presentation.
+- [x] The student must prepare a presentation.
 - [ ] The student may implement beyond this scope.
 - [x] The student should show creativity and innovation in project development.
